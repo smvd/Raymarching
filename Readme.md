@@ -1,3 +1,2 @@
 # Raymarching with C
-**REQUIRES RAYLI
-B**
+**REQUIRES RAYLIB**
