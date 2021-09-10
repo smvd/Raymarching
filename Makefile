@@ -1,3 +1,5 @@
-all:
+all: build
+
+build:
 	gcc source.c -o Raymarching.exe -Wall -W -Werror -lraylib -lgdi32 -lwinmm
 	./Raymarching.exe
